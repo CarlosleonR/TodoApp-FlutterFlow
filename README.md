@@ -3,7 +3,7 @@
 A simple Todo application built with FlutterFlow and Firebase Authentication/Firestore.
 
 ## Live App
-- URL: <add after publish>
+- URL: <[add after publish](https://todo-2025-l707yo.flutterflow.app/)>
 
 ## Tech
 - FlutterFlow (UI, state, deploy)
